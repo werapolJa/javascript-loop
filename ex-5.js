@@ -8,4 +8,3 @@ for (let letter of companyName) {
     console.log("Number " + count + " character is " + letter)
 }
 
-console.log(letter)
